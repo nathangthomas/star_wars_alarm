@@ -6,7 +6,6 @@ int counter = 0;
 
 void setup() {
   Serial.begin(9600);
-
   pinMode(led, OUTPUT);
   pinMode(buzzer, OUTPUT);
   pinMode(ldr, OUTPUT);
