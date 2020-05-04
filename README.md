@@ -1,5 +1,5 @@
 # Star Wars Alarm
-Star Wars Alarm makes use of a photo resistor and potentiometer to play the Star Wars Theme song when exposed to light. Set this in a place that will get some morning light and wake up with the sun and the Star Wars Theme playing. Use the potentiometer to adjust the volume. This is my second Arduino project made with the intention to further explore Arduino and C++.
+Star Wars Alarm makes use of a photo resistor, potentiometer, and a simple buzzer to play the Star Wars Theme song when exposed to light. Set this in a place that will get some morning light and wake up with the sun and the Star Wars Theme playing. Use the potentiometer to adjust the volume. This is my second Arduino project made with the intention to further explore Arduino and C++.
 
 ## Getting started
 If you do not already have the Arduino IDE download and install it from here: https://www.arduino.cc/en/main/software
